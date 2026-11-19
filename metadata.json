@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix الأرشيف الرقمي لوزارة المالية الليبية",
+  "description": "منظومة مؤتمتة ورقمية متكاملة للأرشيف المالي الليبي مع خزينة رقمية آمنة ومحرك بحث متقدم وفهرسة ذكية باللغة العربية RTL",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
